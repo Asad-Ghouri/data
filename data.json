@@ -1052,102 +1052,80 @@
     }
     ,{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x0c0D4b43A92876e55a8Bef6C276869047cF8124c",
+      "name": "Carnelian",
+      "symbol": "BLOA",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     },{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x7124a02fE65407c2f79652fFE46c7C787e98d89B",
+      "name": "	Chalcedony",
+      "symbol": "CACH",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     }
     ,{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0xDecc1e2cca6adE411896D67B575Ee0B6BC1867BD",
+      "name": "Chrome Tourmaline",
+      "symbol": "CHTO",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     },{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x2223A7cBccEDEDABBC74159b09FbC3451017B2a0",
+      "name": "	Chrysoberyl",
+      "symbol": "CHCH",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     }
     ,{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x192f0Ba351A750041d7f0354Ee1Ed1419373Dbb2",
+      "name": "Danburite",
+      "symbol": "DADI",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     },{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x8776C0Fa97856f5dC68441FCcD42927467e128Fd",
+      "name": "	Diopside",
+      "symbol": "DIDI",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     }
     ,{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x6BE29546D150a2D62B53F4b17f378E40B5bd2175",
+      "name": "Dioptase",
+      "symbol": "DIDE",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     },{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x59166D615Ccf9403AEbf5f3B3Da94334Ca3fFC00",
+      "name": "Emerald",
+      "symbol": "EMES",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     }
     ,{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x33A918c54e09d8e0aAEec20eBF6B0E7905988A17",
+      "name": "Fire Opal",
+      "symbol": "FIOP",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     },{
       "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
+      "address": "0x1856587821b9A56faEea191355135Da7da5546Ce",
+      "name": "Golden Beryl",
+      "symbol": "GOBR",
       "decimals": 18,
       "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
     }
-    ,{
-      "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
-      "decimals": 18,
-      "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
-    },{
-      "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
-      "decimals": 18,
-      "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
-    }
-    ,{
-      "chainId": 7007,
-      "address": "0xb6a39371656f7518256ebf344c841bf6301c4b81",
-      "name": "Green Sapphire (GASA)",
-      "symbol": "GASA",
-      "decimals": 18,
-      "logoURI": "https://itishstudios.net/assert/BST-removebg-preview.png"
-    }
+  
     
   ],
   "version": {
